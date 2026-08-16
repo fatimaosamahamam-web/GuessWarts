@@ -40,9 +40,7 @@ I designed and developed GuessWarts, including the user interface, game logic, a
 ![Screen 9](screen9.png)
 
 ## Demo
-
-[▶️ Watch GuessWarts Demo]([https://youtu.be/ABC123](https://youtu.be/7JoheLgGeH8?si=dvEkFI30U4bHxa-W))
-
+https://youtu.be/7JoheLgGeH8?si=dvEkFI30U4bHxa-W
 ## Project
 
 This project was created as part of my journey learning Swift and iOS app development.
